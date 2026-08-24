@@ -3,9 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roronoa-17&label=Profile%20views&color=0e75b6&style=flat" alt="roronoa-17" /> </p>
 
-- 🔭 I'm currently working on **Agentic RAG & tool-calling LLM systems**, and leading DevOps/microservices for **AgroSamridhi**, an AI-powered platform for Indian farmers
+- 🔭 I'm currently working on **Agentic RAG & tool-calling LLM systems** — extending an AI SQL Query Generator into a retrieval-augmented, tool-calling architecture
 
-- 🌱 I'm currently learning **Retrieval-Augmented Generation (RAG) and agentic workflows** as part of a PG Certificate in Advanced Computing at C-DAC
+- 🌱 I'm currently deepening my expertise in **Retrieval-Augmented Generation (RAG) and agentic workflows**
+
+- ✅ I recently completed my **PG Certificate in Advanced Computing at C-DAC** and led a 5-engineer team to build **AgroSamridhi**, an AI-powered microservices platform for Indian farmers
 
 - 👯 I'm looking to collaborate on **AI/ML, Computer Vision, and agentic LLM projects**
 
